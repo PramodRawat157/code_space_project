@@ -1,0 +1,4 @@
+LICENSE
+lninuxcommands.txt
+README.md
+text.txt

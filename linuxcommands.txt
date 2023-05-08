@@ -1,0 +1,17 @@
+pwd
+echo
+sudo
+clear
+cd
+ls
+cat
+less
+grep
+sort
+mv
+cp
+rm
+mkdir
+rmdir
+chmod
+
